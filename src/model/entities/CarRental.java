@@ -11,7 +11,6 @@ public class CarRental {
 	private Invoice invoice;
 
 	public CarRental() {
-
 	}
 
 	public CarRental(Date start, Date finish, Vehicle vehicle) {
